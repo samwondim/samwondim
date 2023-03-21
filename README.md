@@ -17,10 +17,10 @@ All projects are built from the ground up going from design to analysis to imple
 <h3>📪My Accounts</h3>
 <ul>
           <li>
-                    <a style="padding-right: 10px" href="https://leetcode.com/triviosa" target="_blank">Leetcode</a>          
+                    <a href="https://leetcode.com/triviosa">Leetcode</a>          
           </li>
           <li>
-                    <a style="padding-right: 10px"  href="https://samwondie@gmail.com/triviosa" target="_blank">Gmail</a>          
+                    <a href="https://samwondie@gmail.com">Gmail</a>          
           </li>
 </ul>
 
