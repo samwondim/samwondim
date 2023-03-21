@@ -14,7 +14,16 @@ All projects are built from the ground up going from design to analysis to imple
           
 <br>
 <br>
-<h3>Communities</h3>
-<a href="https://leetcode.com/triviosa">leetcode</a>
+<h3>📪My Accounts</h3>
+<ul>
+          <li>
+                    <a style="padding-right: 10px" href="https://leetcode.com/triviosa" target="_blank">Leetcode</a>          
+          </li>
+          <li>
+                    <a style="padding-right: 10px"  href="https://samwondie@gmail.com/triviosa" target="_blank">Gmail</a>          
+          </li>
+</ul>
+
+
 
 
