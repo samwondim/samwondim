@@ -1,6 +1,6 @@
-<h1>🎹👨🏿‍🦱Samwondim</h1>
+<h1>👨🏿‍🦱Samwondim</h1>
 
-<code>Tech Enthusiast(Developer/Competetive programmer/Creator)</code>
+<code>Tech Enthusiast(Developer/Competetive Programmer/Creator)</code>
 
 I am a programmer on the quest of his life learning how the tech world works. 
 All projects are built from the ground up going from design to analysis to implementation.
@@ -13,5 +13,8 @@ All projects are built from the ground up going from design to analysis to imple
 <img align="left" style="padding-right:10px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
           
 <br>
+<br>
+<h3>Communities</h3>
+<a href="https://leetcode.com/triviosa">leetcode</a>
 
 
