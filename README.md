@@ -1,10 +1,10 @@
-<h1>👨🏿‍🦱Samwondim</h1>
+# 👨🏿‍🦱Samwondim
 
-<code>Tech Enthusiast(Developer/Competetive Programmer/Creator)</code>
+<code>Tech Enthusiast(Developer/Competitive Programmer/Creator)</code>
 
 I am a programmer on the quest of his life learning how the tech world works. 
 All projects are built from the ground up going from design to analysis to implementation.
-<h3>📚Languages</h3>
+### 📚Languages
 <img align="left" style="padding-right:10px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img align="left" style="padding-right:10px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" style="padding-right:10px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
@@ -14,7 +14,7 @@ All projects are built from the ground up going from design to analysis to imple
           
 <br>
 <br>
-<h3>📪My Accounts</h3>
+### 📪My Accounts
 <ul>
           <li>
                     <a href="https://leetcode.com/triviosa">Leetcode</a>          
