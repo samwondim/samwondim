@@ -16,15 +16,17 @@ All projects are built from the ground up going from design to analysis to imple
 <br>
 
 ### 📪My Accounts
-
-<ul>
+<div>
+     <ul>
           <li>
                     <a href="https://leetcode.com/triviosa">Leetcode</a>          
           </li>
-          <li>
-                    <a href="https://samwondie@gmail.com">Gmail</a>          
-          </li>
-</ul>
+                    <li>
+                              <a href="https://samwondie@gmail.com">Gmail</a>          
+               </li>
+     </ul>
+
+</div>
 
 
 
