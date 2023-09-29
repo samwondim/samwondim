@@ -1,3 +1,3 @@
-# 👨🏿‍🦱 samuel wondimagengehu
-
-<code>AI Enthusiast(Developer/Musician)</code>
+# 👨🏿‍🦱 hello and welcome!
+## I work on
+<code>AI Development and Fullstack Web Development</code>
