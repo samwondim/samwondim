@@ -1,3 +1,3 @@
 # 👨🏿‍🦱 hello and welcome!
 ## I work on
-<code>AI Development and Fullstack Web Development</code>
+### <code>AI && Fullstack Web Development</code>
