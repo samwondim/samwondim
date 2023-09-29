@@ -1,3 +1,3 @@
-# 👨🏿‍🦱Samwondim
+# 👨🏿‍🦱 samuel wondimagengehu
 
-<code>AI Enthusiast(Developer/Competitive Programmer/Musician)</code>
+<code>AI Enthusiast(Developer/Musician)</code>
